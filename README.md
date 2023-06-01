@@ -1,2 +1,8 @@
 # ecommerce-django-project
-Belajar membuat ecommerce website dengan menggunaakan django dan python
+
+Kelompok B02 :
+Afinda Nabila 
+Bin Hariyati
+Khairunnisa
+Reggina Dwi Pratiwi
+Intan Juniar
